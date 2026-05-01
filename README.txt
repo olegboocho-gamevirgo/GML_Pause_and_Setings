@@ -1,6 +1,6 @@
 A ready-made solution for the pause menu and basic settings. Easily changed and scaled to suit your needs. 
 Implemented functions:
-- Setting and unpausing
+- Pausing and unpausing
 - Pause menu with options for changing and adding functions
 - Algorithm for highlighting the selected button
 - Algorithm for pressing a button
